@@ -1,0 +1,3 @@
+[submodule "CefiedGame"]
+	path = CefiedGame
+	url = https://github.com/lpapai/CefiedGame.git
